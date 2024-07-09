@@ -1,5 +1,5 @@
-# Credit Card Fraud Detection using Machine Learning
-
+# Credit Card Fraud Detection using Machine Learning 
+#DATASET : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Overview
 
 This repository contains code and resources for building a machine learning model to detect fraudulent credit card transactions. The project aims to develop a robust classification model capable of distinguishing between legitimate and fraudulent transactions based on historical transaction data.
